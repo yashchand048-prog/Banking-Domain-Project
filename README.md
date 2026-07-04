@@ -82,14 +82,11 @@ The dataset contains banking-related information such as:
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+<img width="989" height="554" alt="Screenshot 2025-09-08 135247" src="https://github.com/user-attachments/assets/2e5c85d2-6aef-4b26-996a-ccd94cbaf99d" />
+<img width="986" height="549" alt="Screenshot 2025-09-08 135309" src="https://github.com/user-attachments/assets/c9bea9f5-57d7-42c9-974f-0bb8af6f9fc0" />
+<img width="985" height="553" alt="Screenshot 2025-09-08 135325" src="https://github.com/user-attachments/assets/f2aafa79-a29f-4d57-ba7c-23a2c8ae6ca5" />
+<img width="965" height="535" alt="Screenshot 2025-09-08 135350" src="https://github.com/user-attachments/assets/58edca82-673f-4fb9-8be4-bdd3a6f86bf5" />
 
-Example:
-
-* Dashboard Overview
-* Customer Analysis
-* Loan Portfolio Analysis
-* Branch Performance
 
 ---
 
@@ -135,6 +132,6 @@ Example:
 
 **Yash Chand**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python | AI-Assisted Analytics
+Data Analyst | Power BI | SQL | Excel | Python | AI-Assisted Analytics
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
